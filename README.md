@@ -6,8 +6,8 @@
  
  v-photos contains 6 photos of the vehicle (from every side, from top and bottom).
 
-### Introduction
-# WRO Future Engineers Team 
+# Introduction
+### WRO Future Engineers Team 
 
 Welcome to our GitHub repository! We are [Your Team Name], a group of young engineers participating in the World Robot Olympiad (WRO) Future Engineers category.
 
