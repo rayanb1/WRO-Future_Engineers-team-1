@@ -14,7 +14,7 @@ Welcome to our GitHub repository! We are [Your Team Name], a group of young engi
 
 Our project, [Project Name], aims to [describe what your project does and the problem it solves]. This repository contains all the code, schematics, and documentation for our project.
 
-We chose to participate in the WRO because we wanted to learn an unlock a new adventur in our life . Through this project, we've learned and grown a lot as engineers and team players.
+We chose to participate in the WRO because we wanted to learn an unlock a new adventure in our life . Through this project, we've learned and grown a lot as engineers and team players.
 
 We hope you find our project interesting and inspiring. Feel free to explore our repository!
 
