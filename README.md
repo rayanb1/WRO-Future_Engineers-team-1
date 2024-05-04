@@ -16,7 +16,7 @@ Our project, [Project Name], aims to [describe what your project does and the pr
 
 We chose to participate in the WRO because we wanted to learn an unlock a new adventure in our life . Through this project, we've learned and grown a lot as engineers and team players.
 
-We hope you find our project interesting and inspiring. Feel free to explore our repository!
+We hope you find our project interesting and inspiring. Feel free to explore our repository! 
 
 
  
