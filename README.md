@@ -18,6 +18,11 @@ We chose to participate in the WRO because we wanted to learn and unlock a new a
 
 We hope you find our project interesting and inspiring. Feel free to explore our repository! 
 
+## Engineering process
+
+
+Motors: Our team chose the EV3 motors, including both the medium and large motors, because they offer a good balance of power and precision for our robot. The large motor provides the strength needed to move heavier parts and handle demanding tasks, while the medium motor is great for more precise movements and faster response times. This combination allows our robot to be both strong and agile, making it more versatile and effective in different situations. Additionally, the EV3 motors are easy to program and integrate with the rest of our EV3 system, which helps streamline our building and coding process.
+
 
 
  
