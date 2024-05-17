@@ -10,7 +10,7 @@
 # Introduction
 ### WRO Future Engineers Team 
 
-Welcome to our GitHub repository! We are ERROR 404, a group of young engineers participating in the World Robot Olympiad (WRO) Future Engineers category.
+Welcome to our GitHub repository! We are ERROR 404: Team Not Found, a group of young engineers participating in the World Robot Olympiad (WRO) Future Engineers category.
 
 our solution, aims to make a self driving car that can avoid obsticals. This repository contains all the code, schematics, and documentation for our project.
 
