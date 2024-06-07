@@ -6,7 +6,7 @@
  * `v-photos`  contains 6 photos of the vehicle (from every side, from top and bottom).
  *  `video` contains the video.md file with the link to a video where driving demonstration exists.
  *   `src` contains code of control software for all components which were programmed to participate in the competition
-
+  * `team photo` countains our team logo 
 # Introduction
 ### WRO Future Engineers Team 
 
