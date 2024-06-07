@@ -1,4 +1,4 @@
-# WRO-Future_Engineers-team-
+ # WRO-Future_Engineers-team-
  In the WRO Future Engineers Competition, our team is creating a cutting-edge robot to solve real-world problems. With teamwork and innovation, we're ready to showcase our skills on the global stage!
 
 ## content
@@ -34,7 +34,7 @@ We hope you find our project interesting and inspiring. Feel free to explore our
   ### WHEELS : 
   My partner and I chose to use medium-large sized EV3 wheels and small ones at the front for our robot. The medium-large sized EV3 wheels provide a good balance between speed and stability, allowing our robot to cover distances efficiently while maintaining control. These wheels are versatile and can handle various surfaces, making them ideal for the diverse conditions of the competition course.
 
-In addition, we selected small SPIKE wheels to enhance our robot's maneuverability. The smaller size of the SPIKE wheels allows for precise turns and adjustments, which is crucial for navigating tight spaces and complex obstacles. This combination of wheel sizes optimizes our robot's performance, giving us the advantage of both speed and agility in the competition.
+In addition, we selected small wheels to enhance our robot's maneuverability. The smaller size of the SPIKE wheels allows for precise turns and adjustments, which is crucial for navigating tight spaces and complex obstacles. This combination of wheel sizes optimizes our robot's performance, giving us the advantage of both speed and agility in the competition.
 
  # Logo
 
