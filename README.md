@@ -43,10 +43,5 @@ We hope you find our project interesting and inspiring. Feel free to explore our
 In addition, we selected small SPIKE wheels to enhance our robot's maneuverability. The smaller size of the SPIKE wheels allows for precise turns and adjustments, which is crucial for navigating tight spaces and complex obstacles. This combination of wheel sizes optimizes our robot's performance, giving us the advantage of both speed and agility in the competition.
 
  # Logo
- ![logo 404](https://github.com/rayanb1/WRO-Future_Engineers-team-1/blob/main/Screenshot%202024-05-19%20125123.png)
 
-
-
-
-
- 
+![441366256_1136239264302579_8574749895628343659_n](https://github.com/rayanb1/WRO-Future_Engineers-team-1/assets/163670901/39920aa3-dd63-45f6-9560-5a25e02748a4)
