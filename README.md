@@ -30,11 +30,7 @@ We hope you find our project interesting and inspiring. Feel free to explore our
   
   ### ULTRASOUND : 
    My partner and I chose to use an ultrasound sensor for our project because it provides an effective way to detect the walls surrounding the course. Ultrasound sensors are known for their accuracy and reliability in measuring distances to objects, making them an ideal choice for navigating through a complex environment. By using ultrasound, we can ensure our robot maintains a safe distance from the walls, enhancing its ability to maneuver efficiently and avoid collisions. This decision aligns with our goal of creating a precise and responsive system for the competition.
-  
- ### GYRO :
-   My partner and I chose to use a gyro sensor because it helps us fix the robot's steering. Gyro sensors are crucial for maintaining accurate orientation and stability, which is essential for precise navigation. By incorporating a gyro sensor, we can ensure that our robot stays on the correct path, making real-time adjustments to its steering as needed. This improves our robot's overall performance and reliability, allowing it to handle the course with greater accuracy and efficiency.
-  
-
+ 
   ### WHEELS : 
   My partner and I chose to use medium-large sized EV3 wheels and small ones at the front for our robot. The medium-large sized EV3 wheels provide a good balance between speed and stability, allowing our robot to cover distances efficiently while maintaining control. These wheels are versatile and can handle various surfaces, making them ideal for the diverse conditions of the competition course.
 
