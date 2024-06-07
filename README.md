@@ -34,8 +34,6 @@ We hope you find our project interesting and inspiring. Feel free to explore our
  ### GYRO :
    My partner and I chose to use a gyro sensor because it helps us fix the robot's steering. Gyro sensors are crucial for maintaining accurate orientation and stability, which is essential for precise navigation. By incorporating a gyro sensor, we can ensure that our robot stays on the correct path, making real-time adjustments to its steering as needed. This improves our robot's overall performance and reliability, allowing it to handle the course with greater accuracy and efficiency.
   
-  ### PITOP CAMERA :
-   My partner and I chose to use the Pi-Top camera because it allows us to detect obstacles effectively. The Pi-Top camera provides high-resolution imaging and advanced vision processing capabilities, which are essential for identifying and navigating around obstacles in real-time. By using the Pi-Top camera, we can enhance our robot's ability to perceive its environment, making it more adept at avoiding collisions and efficiently maneuvering through the course. This choice is integral to our strategy of creating a highly responsive and intelligent robotic system for the competition.
 
   ### WHEELS : 
   My partner and I chose to use medium-large sized EV3 wheels and small ones at the front for our robot. The medium-large sized EV3 wheels provide a good balance between speed and stability, allowing our robot to cover distances efficiently while maintaining control. These wheels are versatile and can handle various surfaces, making them ideal for the diverse conditions of the competition course.
